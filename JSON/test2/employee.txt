@@ -1,0 +1,13 @@
+
+{
+    "id":1,
+    "name":"Bob Muller",
+    "permanent":true,
+    "address":{
+                "street":"Dvoryanskaya Streat",
+                "city":"Odessa",
+                "zipcode":95014
+               },
+     "phoneNumbers":[9988664422, 1234567890],
+     "role":"Developer"
+}
